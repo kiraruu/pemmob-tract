@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034458032882",
+    "project_id": "tracttravel",
+    "storage_bucket": "tracttravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034458032882:android:8af7a2737118c15df7fe6b",
+        "android_client_info": {
+          "package_name": "com.example.tract"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUmv8sbEPeT1SeEUP1TF5LaIpkl0Vd1Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
